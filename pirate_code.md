@@ -1,7 +1,7 @@
 # Pirate code
 
-I.    The Captain and Quartermaster to receive two shares of a prize, the First-mate to
-      receive one share of a prize.
+I.    The First-mate to receive 8 shares of a prize. The Captain and Quartermaster to receive
+      one shares of a prize.
 
 II.   Every man has equal title to the fresh provisions, or strong liquors, and may use
       them at pleasure, unless a scarcity makes it necessary, for the good of all, to vote
